@@ -1,0 +1,7 @@
+V1             5.25
+V2             6.23
+V3             24.9
+V4             1.01
+T              159
+Realizada em: 05-08-2024    13:50:33
+PROGRAMA MODIFICADO EM 17/11/2015
